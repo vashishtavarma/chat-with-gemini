@@ -18,7 +18,7 @@ A simple web application that provides text-based Q&A and image analysis capabil
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:vashishtavarma/chat-with-gemini.git
    cd chat-with-gemini
    ```
 
